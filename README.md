@@ -11,4 +11,4 @@ Aplikasi ini dibangun menggunakan:
 - Webpack
 - Bootstrap, Jquery, Popper
 
-For future help contact me.
+For future help and usage please contact me.
